@@ -1,0 +1,14 @@
+title: gearup
+author: Caleb
+description: wish i have a duo
+flag: ACSI{doNT_bE_Gr33dY_j528c}
+
+tags:
+  - programming
+
+dist:
+  - ./dist/README.md
+
+conn:
+  - url: nc <host> <port>
+    port: 5000

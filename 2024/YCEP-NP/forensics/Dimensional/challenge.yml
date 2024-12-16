@@ -1,0 +1,24 @@
+name: "Dimensional"
+author: "Syn Kit"
+category: Forensics
+description: I got this image, but it seems to be cut off.. Its original dimensions were 223 x 226.. How am I supposed to un-crop an image anyway?
+difficulty: Hard
+value: 100
+type: standard
+
+flags:
+    - YCEP24{n0w_y0u_c4n_533_M3}
+
+topics:
+    - Altering jpg image dimensions in hex
+
+files:
+    - dist/dimensional.jpg
+
+hints:
+    - {
+        content: "A hex editor might be useful",
+        cost: 20
+    }
+
+

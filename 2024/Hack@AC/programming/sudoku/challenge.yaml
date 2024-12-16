@@ -1,0 +1,14 @@
+title: Sudoku
+author: Lam
+description: sudoku
+flag: ACSI{su_r00t_cat_fl@9}
+
+tags:
+  - programming
+
+dist:
+  - ./dist/README.md
+
+conn:
+  - url: nc <host> <port>
+    port: 5002

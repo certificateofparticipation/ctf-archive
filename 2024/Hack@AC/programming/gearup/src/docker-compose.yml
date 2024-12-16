@@ -1,0 +1,8 @@
+name: "prog"
+version: "3.7"
+
+services:
+    gearup:
+        build: "."
+        ports:
+            - "5000:50000"

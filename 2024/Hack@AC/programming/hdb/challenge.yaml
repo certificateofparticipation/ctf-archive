@@ -1,0 +1,14 @@
+title: hdb
+author: Lam
+description: house prices are crazy
+flag: ACSI{1Nfl4T1ON_I$_r!S!N6}
+
+tags:
+  - programming
+
+dist:
+  - ./dist/README.md
+
+conn:
+  - url: nc <host> <port>
+    port: 5001

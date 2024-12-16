@@ -1,0 +1,8 @@
+name: "prog"
+version: "3.7"
+
+services:
+    hdb:
+        build: "."
+        ports:
+            - "5001:50000"
